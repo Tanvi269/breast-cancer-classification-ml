@@ -7,7 +7,7 @@ Build a supervised machine learning model to classify tumors as Malignant (M) or
 
 ## Dataset
 - Source: [UCI Machine Learning Repository]
- ( https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+ (https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) (dataset can download from here)
 - Files: `wdbc.data`, `wdbc.names`
 
 ## Files
