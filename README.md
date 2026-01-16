@@ -6,7 +6,8 @@
 Build a supervised machine learning model to classify tumors as Malignant (M) or Benign (B) using the Wisconsin Breast Cancer Dataset. Demonstrates the full ML workflow: data preprocessing, model training, evaluation, and error analysis.
 
 ## Dataset
-- Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
+- Source: [UCI Machine Learning Repository]
+ ( https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 - Files: `wdbc.data`, `wdbc.names`
 
 ## Files
